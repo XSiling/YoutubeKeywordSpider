@@ -4,7 +4,7 @@
 
 ### 1. Prepare Cookies
 
-Download plug-in for cookies from https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh. Log in YouTube then save the Cookies using this.
+Download plug-in for cookies from https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh. Log in YouTube then save the Cookies using this. The file name should be 'youtubecookie.json'
 
 ### 2. Edit Keywords then Run
 
