@@ -8,8 +8,8 @@ Download plug-in for cookies from https://chrome.google.com/webstore/detail/edit
 
 ### 2. Edit Keywords then Run
 
-Run YouTubeKeywordSpider.java in any IDEA. The environment is java 1.8. Currently, the code only support search for one keyword per time. If u want to watch videos from certain Area, u need to change ur ip manually.
+Run YouTubeKeywordSpider.java in any IDEA. The environment is java 1.8. Currently, the code only support search for one keyword per time. If u want to watch videos from certain Area, u need to change ur ip manually. The urls of relevant videos should be saved in '<keyword>.txt'.
 
 ### 3. Download Video/Audio
 
-Pytube is used in downloading. Run downloader.py and check the parameters of location in file.
+Pytube is used in downloading. Run downloader.py and check the parameters of location in file. In downloader, only audio will be downloaded.
